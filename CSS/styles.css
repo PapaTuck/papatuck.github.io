@@ -103,9 +103,7 @@ a:hover {
 .certs-row {
   display: block;
   width: 40%;
-  margin: 100px auto 100px auto;
-  padding: 100px auto 100px auto;
-  text-align: center;
+  margin: auto;
 }
 
 .web-logo2 {
