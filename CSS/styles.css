@@ -104,7 +104,7 @@ a:hover {
   display: block;
   width: 40%;
   margin: auto;
-  padding-top: 100px;
+  padding: 100px 0;
 }
 
 .web-logo2 {
